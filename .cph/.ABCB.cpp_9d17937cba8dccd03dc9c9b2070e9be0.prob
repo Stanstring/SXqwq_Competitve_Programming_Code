@@ -1,0 +1,1 @@
+{"name":"Local: ABCB","url":"/home/sxqwq/桌面/TEST/ABCB.cpp","tests":[{"id":1727525577282,"input":"ABCDEFGHIJKLMNOPQRSTUVWXYZ","output":"25"},{"id":1727525588178,"input":"MGJYIZDKSBHPVENFLQURTCWOAX","output":"223"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/sxqwq/桌面/TEST/ABCB.cpp","group":"local","local":true}

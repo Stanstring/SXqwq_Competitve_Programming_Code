@@ -1,0 +1,1 @@
+{"name":"Local: baidu_map","url":"/home/sxqwq/桌面/TEST/baidu_map.cpp","tests":[{"id":1722077654546,"input":"4\n0 1 -1 -1\n-1 0 1 -1\n-1 -1 0 1\n1 -1 -1 0","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/sxqwq/桌面/TEST/baidu_map.cpp","group":"local","local":true}

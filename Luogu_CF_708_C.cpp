@@ -1,0 +1,11 @@
+#include <bits/stdc++.h>
+#include <bits/extc++.h>
+using namespace std;
+using namespace __gnu_pbds;
+int main()
+{
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    cout.tie(nullptr);
+    
+}

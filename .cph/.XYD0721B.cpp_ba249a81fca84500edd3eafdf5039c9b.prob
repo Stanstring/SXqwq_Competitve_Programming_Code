@@ -1,0 +1,1 @@
+{"name":"Local: XYD0721B","url":"/home/sxqwq/桌面/TEST/XYD0721B.cpp","tests":[{"id":1721524639664,"input":"1\n1\nABAC\nBABD","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/sxqwq/桌面/TEST/XYD0721B.cpp","group":"local","local":true}

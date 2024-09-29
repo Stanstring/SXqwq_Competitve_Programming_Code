@@ -1,0 +1,1 @@
+{"name":"Local: lbc","url":"/home/sxqwq/桌面/TEST/lbc.cpp","tests":[{"id":1723808844171,"input":"4 2\n1345 245 105 1","output":"3"},{"id":1723809453991,"input":"4 4\n1134 2234 3234 4234","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/sxqwq/桌面/TEST/lbc.cpp","group":"local","local":true}

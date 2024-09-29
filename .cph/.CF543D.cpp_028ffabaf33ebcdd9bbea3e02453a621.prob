@@ -1,0 +1,1 @@
+{"name":"Local: CF543D","url":"/home/sxqwq/桌面/TEST/CF543D.cpp","tests":[{"id":1721446389312,"input":"3\n1 1","output":"4 3 3"},{"id":1721446394654,"input":"5\n1 2 3 4","output":"5 8 9 8 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/sxqwq/桌面/TEST/CF543D.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: ub","url":"/home/sxqwq/桌面/TEST/ub.cpp","tests":[{"id":1723824428851,"input":"10 10\n3 0 2 0\n10 1 9 0\n2 1 4 0\n10 1 2 1\n2 1 2 0\n10 1 9 1\n2 1 4 0\n10 0 9 1\n1 1 8 1\n8 0 2 1","output":"POSSIBLE\n0 1 0 0 0 0 0 1 0 0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/sxqwq/桌面/TEST/ub.cpp","group":"local","local":true}

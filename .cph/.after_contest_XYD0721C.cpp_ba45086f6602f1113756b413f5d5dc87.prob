@@ -1,0 +1,1 @@
+{"name":"Local: after_contest_XYD0721C","url":"/home/sxqwq/桌面/TEST/after_contest_XYD0721C.cpp","tests":[{"id":1721544756165,"input":"3\n1 2 3","output":"12840549"},{"id":1721544762473,"input":"3\n1 5 3","output":"2889132"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/sxqwq/桌面/TEST/after_contest_XYD0721C.cpp","group":"local","local":true}
