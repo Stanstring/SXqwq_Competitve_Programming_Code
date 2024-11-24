@@ -1,0 +1,1 @@
+{"name":"Local: C","url":"/home/sxqwq/桌面/TEST/C.cpp","tests":[{"id":1732343845593,"input":"3 2\n1 2 3\n1 2\n1 3","output":"1\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/sxqwq/桌面/TEST/C.cpp","group":"local","local":true}
